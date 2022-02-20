@@ -6,3 +6,6 @@ W. Avy wanted to learn more about temperature trends before we decide to open a 
 Above is the temperature data from June.
 <img width="213" alt="Screen Shot 2022-02-20 at 4 39 44 PM" src="https://user-images.githubusercontent.com/95194554/154867561-5ecb7a4c-475d-4c1b-8318-d582437861ed.png">
 Above is the temperature data from December.
+* We can see that in December the mean temperature is about 3 degrees cooler. 
+* Although the max temperatures of the two months are similar, the min temperatures are quite different. The min temperature in December is 8 degrees cooler than in June. 
+* The Data for the percentage is also cooler on average in December.
